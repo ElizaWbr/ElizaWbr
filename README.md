@@ -15,6 +15,8 @@ Meu nome é Eliza Weber, tenho 18 anos e estou no início da minha carreira na p
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=Series.Show&theme=synthwave)](https://github.com/ElizaWbr/Series.Show)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=sos-helper&theme=synthwave)](https://github.com/ElizaWbr/sos-helper)
+
 ### Linguagens Utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizaWbr&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
