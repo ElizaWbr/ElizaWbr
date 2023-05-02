@@ -7,6 +7,10 @@ Meu nome é Eliza Weber, tenho 18 anos e estou no início da minha carreira na p
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizaWbr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+### Portifólio
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=Portfolio&theme=synthwave)](https://github.com/ElizaWbr/Portfolio)
+
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=projeto-tiktok&theme=synthwave)](https://github.com/ElizaWbr/projeto-tiktok)
