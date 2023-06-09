@@ -15,6 +15,8 @@ Meu nome é Eliza Weber, tenho 18 anos e estou no início da minha carreira na p
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=projeto-tiktok&theme=synthwave)](https://github.com/ElizaWbr/projeto-tiktok)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=filmarea&theme=synthwave)](https://github.com/ElizaWbr/filmarea)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=Trabalho-de-LPII-PHP&theme=synthwave)](https://github.com/ElizaWbr/Trabalho-de-LPII-PHP)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElizaWbr&repo=Series.Show&theme=synthwave)](https://github.com/ElizaWbr/Series.Show)
